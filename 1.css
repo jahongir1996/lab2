@@ -1,0 +1,23 @@
+body 
+{
+    background-color: gray;
+    background-image: url("D:/12.08.2018/Web projects/Web Project - Copy (7)/img/5.png");
+   font-size: 20px;
+}
+.m1
+{
+font-family: all;
+	color: green;
+}
+.img1
+{
+	width: 200px;
+	height: 150px;
+	clear: both;
+}
+.img2
+{
+	width: 200px;
+	height: 150px;
+	clear: both;
+}
